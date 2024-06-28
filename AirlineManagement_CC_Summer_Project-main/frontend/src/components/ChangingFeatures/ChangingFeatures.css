@@ -1,0 +1,29 @@
+table {
+
+  border-radius: 100% 0% 68% 32% / 57% 100% 0% 43%;
+  width: 1050px;
+  height: 1050px;
+  background-color: rgb(44, 237, 224);
+  opacity: 0.9;
+
+}
+
+.getRoute {
+  color: aqua;
+  background-color: gray;
+}
+
+
+
+
+
+th {
+  border-bottom: 2px solid black;
+  text-align: center;
+
+}
+
+td {
+  text-align: center;
+
+}

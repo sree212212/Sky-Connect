@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "mongoose": "^6.3.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}

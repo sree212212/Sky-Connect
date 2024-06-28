@@ -1,0 +1,112 @@
+[
+    {
+        "CompanyName": "Parveen Travels",
+        "busType": "Multi AXLE AC",
+        "busNumber": "KA 01 AB 1234",
+        "startCity": "Chennai",
+        "destination": "Bangalore",
+        "totalSeats": "36",
+        "availableSeats": "20",
+        "pricePerSeat": "1000",
+        "date": "22/08/2020"
+    },
+    {
+        "CompanyName": "SRS Travels",
+        "busType": "Multi AXLE AC",
+        "busNumber": "KA 01 AB 5678",
+        "startCity": "Chennai",
+        "destination": "Bangalore",
+        "totalSeats": "36",
+        "availableSeats": "20",
+        "pricePerSeat": "1000",
+        "date": "22/08/2020"
+    },
+    {
+        "CompanyName": "Parveen Travels",
+        "busType": "Multi AXLE AC",
+        "busNumber": "KA 01 AB 9012",
+        "startCity": "Chennai",
+        "destination": "Hyderabad",
+        "totalSeats": "36",
+        "availableSeats": "20",
+        "pricePerSeat": "1000",
+        "date": "22/08/2020"
+    },
+    {
+        "CompanyName": "SRS Travels",
+        "busType": "Multi AXLE AC",
+        "busNumber": "KA 01 AB 3456",
+        "startCity": "Chennai",
+        "destination": "Hyderabad",
+        "totalSeats": "36",
+        "availableSeats": "20",
+        "pricePerSeat": "1000",
+        "date": "22/08/2020"
+    },
+    {
+        "CompanyName": "Parveen Travels",
+        "busType": "Multi AXLE AC",
+        "busNumber": "KA 01 AB 7890",
+        "startCity": "Chennai",
+        "destination": "Coimbatore",
+        "totalSeats": "36",
+        "availableSeats": "20",
+        "pricePerSeat": "1000",
+        "date": "22/08/2020"
+    },
+    {
+        "CompanyName": "SRS Travels",
+        "busType": "Multi AXLE AC",
+        "busNumber": "KA 01 AB 2345",
+        "startCity": "Chennai",
+        "destination": "Coimbatore",
+        "totalSeats": "36",
+        "availableSeats": "20",
+        "pricePerSeat": "1000",
+        "date": "22/08/2020"
+    },
+    {
+        "CompanyName": "Parveen Travels",
+        "busType": "Multi AXLE AC",
+        "busNumber": "KA 01 AB 1111",
+        "startCity": "Chennai",
+        "destination": "Vishakapatnam",
+        "totalSeats": "36",
+        "availableSeats": "20",
+        "pricePerSeat": "1000",
+        "date": "22/08/2020"
+    },
+    {
+        "CompanyName": "Parveen Travels",
+        "busType": "Multi AXLE AC",
+        "busNumber": "KA 01 AB 2222",
+        "startCity": "Chennai",
+        "destination": "Salem",
+        "totalSeats": "36",
+        "availableSeats": "20",
+        "pricePerSeat": "1000",
+        "date": "22/08/2020"
+    },
+    {
+        "CompanyName": "Parveen Travels",
+        "busType": "Multi AXLE AC",
+        "busNumber": "KA 01 AB 3333",
+        "startCity": "Chennai",
+        "destination": "Tirunelveli",
+        "totalSeats": "36",
+        "availableSeats": "20",
+        "pricePerSeat": "1000",
+        "date": "22/08/2020"
+    },
+    {
+        "CompanyName": "Parveen Travels",
+        "busType": "Multi AXLE AC",
+        "busNumber": "KA 01 AB 4444",
+        "startCity": "Bangalore",
+        "destination": "Chennai",
+        "totalSeats": "36",
+        "availableSeats": "20",
+        "pricePerSeat": "1000",
+        "date": "22/08/2020"
+    }
+]
